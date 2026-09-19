@@ -5,8 +5,6 @@
 # 🌈✨🔥 **LOG-DEV-CLUB** 🔥✨🌈
 ### 👑 진짜 개발자들의 성지 👑
 
-![Visitor Count](https://profile-counter.glitch.me/log-dev-club/count.svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jua&size=35&duration=2000&pause=500&color=FF00D9&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%EC%96%B4%EC%84%9C%EC%99%80%EC%9A%94+%F0%9F%98%8E;%EC%97%AC%EA%B8%B0%EB%8A%94+log-dev-club+%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%BD%94%EB%94%A9+%E2%9D%A4%EF%B8%8F+%EA%B0%9C%EB%B0%9C+%E2%9C%A8+%EC%97%B4%EC%A0%95)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200">
@@ -97,7 +95,5 @@
 ### 별⭐ 눌러주세요... 제발요... 🙏
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
-
-**made with 🔥💯✨ by log-dev-club (진심 절반 장난 절반)**
 
 </div>
