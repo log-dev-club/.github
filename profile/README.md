@@ -47,6 +47,18 @@
 
 </div>
 
+
+## 📊 멤버 스탯 (이건 진짜 데이터임)
+ 
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=kimyangmin&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
+<img src="https://github-stats-extended.vercel.app/api?username=jaehun221&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
+<img src="https://github-stats-extended.vercel.app/api?username=gaengji&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
+<img src="https://github-stats-extended.vercel.app/api?username=jiyongma-1&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
+<img src="https://github-stats-extended.vercel.app/api?username=hanbg191919-eng&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
+</div>
+
+
 ```diff
 + 장점: 열정 100%
 - 단점: 문서화 안함
