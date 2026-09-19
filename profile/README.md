@@ -41,7 +41,7 @@
 
 <div align="center">
 
-| ![](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif) | ![](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif) | ![](https://media.giphy.com/media/l41lTdMe1JmnzTsG0/giphy.gif) |
+| ![](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif) | ![](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif) | ![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) |
 |:---:|:---:|:---:|
 | **코딩력** ★★★★★ | **버그생산력** ★★★★★ | **커밋메시지센스** ☆☆☆☆☆ |
 
@@ -74,17 +74,6 @@
 
 ---
 
-## 📊 GitHub 통계 (진짜 통계임 이건)
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=log-dev-club&show_icons=true&theme=radical&border_radius=15)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=log-dev-club&theme=radical&border_radius=15)
-
-</div>
-
----
 
 <div align="center">
 
