@@ -57,7 +57,6 @@
 <img src="https://github-stats-extended.vercel.app/api?username=gaengji&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
 <img src="https://github-stats-extended.vercel.app/api?username=jiyongma-1&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
 <img src="https://github-stats-extended.vercel.app/api?username=hanbg191919-eng&show_icons=true&theme=radical&border_radius=15&hide_title=false" width="410"/>
- ![](https://img.shields.io/badge/kimyangmin_커밋수-999999-red?style=for-the-badge)
 </div>
 
 
